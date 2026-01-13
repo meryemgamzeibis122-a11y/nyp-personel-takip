@@ -50,6 +50,7 @@
  ## Kullanım Senaryosu Diyagramı
 ![Kullanım Senaryosu Diyagramı](kullanim-senaryosu.png)
 ## Class Diyagramı
+![Class Diyagramı](classislemleri.png)
 
 
  
