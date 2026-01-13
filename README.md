@@ -67,8 +67,10 @@
 ![resim5](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(8).png)
 ## Yönetici İşlemleri Maaş Hesaplama İşlemi
 ![resim6](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(9).png)
-## Yöneticit İşlemleri Rapor Gösterme
-![resim7](
+## Yönetici İşlemleri Rapor Gösterme
+![resim7](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(10).png)
+## Rapor Sayfası
+![resim8](
 
 
 
