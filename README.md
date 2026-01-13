@@ -57,6 +57,8 @@
 
 ## Giriş Sayfası
 ![resim1](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(3).png)
+## Yöteci Sayfası Kullanıcı İşlemleri
+![resim2](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(4).png)
 
 
 
