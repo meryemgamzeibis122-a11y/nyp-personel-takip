@@ -66,18 +66,12 @@
 ## Yönetici İşlemleri İzin Onay -Reddet İşlemleri
 ![resim5](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(8).png)
 ## Yönetici İşlemleri Maaş Hesaplama İşlemi
-![resim6](
+![resim6](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(9).png)
+## Yöneticit İşlemleri Rapor Gösterme
+![resim7](
 
 
 
-
- 
-
- ## Sonuç
- Bu proje kapsamında, personel yönetimine yönelik temel işlemler gerçekleştirilmiştir; maaş hesaplama,performans puanlama ve kullanıcı yetkilendirme gibi fonksiyonlar başarıyla uygulanmıştır.
- Proje, veritabanı bağlantısı ve OOP yapısı açısından temel düzeyde işlevsel bir sistem sunmaktadır.
-
- ## Geliştirici 
  Meryem Gamze İbiş
  
  
