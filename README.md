@@ -52,6 +52,9 @@
 ## Class Diyagramı
 ![Class Diyagramı](classislemleri.png)
 
+## EKRAN GÖRÜNTÜLERİ
+![resim1](
+
 
  
 
