@@ -8,12 +8,18 @@
  ## Kullanıcı Rolleri ve Yetkilendirme
 
 ### Yönetici Yetkileri
-- Kullanıcı ekleme, silme ve yetkilendirme işlemleri  
-- Tüm personel kayıtlarını görüntüleme  
+- Kullanıcı ekleme, silme ve yetkilendirme işlemleri
+  
+- Tüm personel kayıtlarını görüntüleme
+  
 - Personel ekleme, silme ve güncelleme işlemleri
+  
 - Personel izin onaylama reddetme işlemleri
-- Maaş hesaplama işlemlerini gerçekleştirme  
-- Personel performans puanlama işlemleri  
+  
+- Maaş hesaplama işlemlerini gerçekleştirme
+  
+- Personel performans puanlama işlemleri
+  
 - Sistem genel ayarlarını yönetme  
 
 ### Kullanıcı Yetkileri
@@ -23,27 +29,43 @@
   
  ## UYGULAMA ÖZELLİKLERİ
  -Kullanıcı ve yönetici yetkilendirme sistemi
+ 
  -Personel ekleme işlemleri
+ 
  -Personel silme işlemleri
+ 
  -Personel güncelleme işlemleri
+ 
  -Personel listeleme işlemleri
+ 
  -Kullanıcı izin işlemleri
+ 
  -Performans puanlama sistemi
+ 
  -Maaş hesaplama sistemi
+ 
  -MySQL veritabanı entegrasyonu
  
  ## KULLANILAN TEKNOLOJİLER
  -C#(.NET Framework)
+ 
  -Windows Forms
+ 
  -MySQL
+ 
  -Visual Studio
+ 
  -Githup
+ 
  -Entity Layer:Katmanlı Mimari(DAL,BLL)
  
  ## PROJE YAPISI
  -'PersonelTakipFirstProject': Ana uygulama dosyaları
+ 
  -Formlar: Kulalnıcı arayüzü tasarımları
+ 
  -Veritabanı: MySQL bağlantı ve sorgu işlemleri
+ 
  -Yetkilendirme : Kullanıcı rol ve izin yönetimi
  
  ## KULLANILAN DİYAGRAMLAR:
@@ -62,6 +84,7 @@ Kullanıcı adı,parola ve yetki bilgilerine göre sistem girilen bilgilerin bir
 
 ![resim1](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(3).png)
 ## Yöteci Sayfası Kullanıcı İşlemleri
+
 ![resim2](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(4).png)
 ## Yönetici Sayfası Personel İşlemleri
 ![resim3](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(5).png)
