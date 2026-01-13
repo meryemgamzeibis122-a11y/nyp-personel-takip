@@ -45,15 +45,19 @@
  -Formlar: Kulalnıcı arayüzü tasarımları
  -Veritabanı: MySQL bağlantı ve sorgu işlemleri
  -Yetkilendirme : Kullanıcı rol ve izin yönetimi
- ## KULLANILAN DİYAGRAMLAR
+ 
+ ## KULLANILAN DİYAGRAMLAR:
  
  ## Kullanım Senaryosu Diyagramı
 ![Kullanım Senaryosu Diyagramı](kullanim-senaryosu.png)
 ## Class Diyagramı
 ![Class Diyagramı](classislemleri.png)
 
-## EKRAN GÖRÜNTÜLERİ
-![resim1](
+## EKRAN GÖRÜNTÜLERİ:
+
+## Giriş Sayfası
+![resim1](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(3).png)
+
 
 
  
