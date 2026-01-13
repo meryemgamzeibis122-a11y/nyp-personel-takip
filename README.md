@@ -56,6 +56,10 @@
 ## EKRAN GÖRÜNTÜLERİ:
 
 ## Giriş Sayfası
+Giriş sayfasın personel takip uygulamasını kullananların uygulamaya giriş yapmasını ve yetkilerine göre gerekli sayfaya yönlenlendirilmesini sağlar.
+Kullanıcı adı,parola ve yetki bilgilerine göre sistem girilen bilgilerin bir kullanıcıya mı yoksa bir yöneticiye mi ait olduğunu kontrol eder ve uygun sayfayı açar.
+
+
 ![resim1](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(3).png)
 ## Yöteci Sayfası Kullanıcı İşlemleri
 ![resim2](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(4).png)
