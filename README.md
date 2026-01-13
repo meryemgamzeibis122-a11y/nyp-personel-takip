@@ -63,6 +63,10 @@
 ![resim3](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(5).png)
 ## Yönetici Sayfası Performans İşlemleri
 ![resim4](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(6).png)
+## Yönetici İşlemleri İzin Onay -Reddet İşlemleri
+![resim5](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(8).png)
+## Yönetici İşlemleri Maaş Hesaplama İşlemi
+![resim6](
 
 
 
