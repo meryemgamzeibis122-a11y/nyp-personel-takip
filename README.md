@@ -45,6 +45,12 @@
  -Formlar: Kulalnıcı arayüzü tasarımları
  -Veritabanı: MySQL bağlantı ve sorgu işlemleri
  -Yetkilendirme : Kullanıcı rol ve izin yönetimi
+ ## KULLANILAN DİYAGRAMLAR
+ 
+ ## Kullanım Senaryosu Diyagramı
+![Kullanım Senaryosu Diyagramı](kullanim-senaryosu.png)
+
+ 
 
  ## Sonuç
  Bu proje kapsamında, personel yönetimine yönelik temel işlemler gerçekleştirilmiştir; maaş hesaplama,performans puanlama ve kullanıcı yetkilendirme gibi fonksiyonlar başarıyla uygulanmıştır.
