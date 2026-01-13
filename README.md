@@ -84,19 +84,33 @@ Kullanıcı adı,parola ve yetki bilgilerine göre sistem girilen bilgilerin bir
 
 ![resim1](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(3).png)
 ## Yöteci Sayfası Kullanıcı İşlemleri
+Yönetici yetkisiyle giriş yapan kişinin ilk ekranıdır.
+Yönetici Sayfasında kullanıcı işlemleri bölümünde yönetici kullanıcının bilgilerini kaydeder.
 
 ![resim2](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(4).png)
 ## Yönetici Sayfası Personel İşlemleri
+Yönetici Sayfasında personel işlemleri bölümünde kaydedilen kullanıcının görev,görev yeri,maaş,mezuniyet,cinsiyet ve doğum tarihi gibi bilgileri girilir.
+
 ![resim3](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(5).png)
 ## Yönetici Sayfası Performans İşlemleri
+Bu sayfada yönetici çalışanına 0-100 arası bir puan verir ve değerlendirme notu kısmında personel hakkındaki düşüncelerine yer verir. 
+
 ![resim4](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(6).png)
 ## Yönetici İşlemleri İzin Onay -Reddet İşlemleri
+İzin onay-reddet bölümünde ise izin kaydı oluşturan personelin iznini izin listele bölümünden görüntüler ve izin onaylama veya reddetme işlemini gerçekleştirir.
+
 ![resim5](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(8).png)
 ## Yönetici İşlemleri Maaş Hesaplama İşlemi
+Bu bölümde yönetici personelin çalıştığı gün sayısına göre maaşını hesaplar.
+
 ![resim6](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(9).png)
 ## Yönetici İşlemleri Rapor Gösterme
+Bu bölümde genel rapor butonu form 4 sayfasına bağlanır ve tüm izinler görüntülenir.
+
 ![resim7](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(10).png)
 ## Rapor Sayfası
+Rapor sayfasında yönetici seçtiği tarihler arasında ki izinlerin tümünü veya kategorisine göre görüntüler.
+
 ![resim8](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(7).png)
 
 
