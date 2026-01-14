@@ -75,6 +75,11 @@
 ## Class Diyagramı
 ![Class Diyagramı](classislemleri.png)
 
+## Youtube Videosu Linki
+
+https://youtu.be/wWimQUBIpWk
+
+
 ## EKRAN GÖRÜNTÜLERİ:
 
 ## Giriş Sayfası
