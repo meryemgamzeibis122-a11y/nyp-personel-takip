@@ -113,10 +113,18 @@ Rapor sayfasında yönetici seçtiği tarihler arasında ki izinlerin tümünü 
 
 ![resim8](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(7).png)
 ## Kullanıcı Sayfası
-![resim8](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(11).png)
+Kullanıcı yetkisi ile giren personelin giriş yaptığı ekrandır.
+Kullanıcı sayfasında kullanıcı tcno ile izin oluşturma işlemini gerçekleştirir.
 
+![resim8](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(11).png)
+## Kullanıcı İzin Listeleme Sayfası
+Kullanıcı tc bilgisi ile izin talebi oluşturan kişinin izin durumunu görüntüleyebilir.
 
 ![resim9](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(12).png)
+
+İzin talebini oluşturan kişi ekranında izin taleplerini görüntüler.
+
+![resim10](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(13).png)
 
 
 
