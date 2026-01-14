@@ -116,6 +116,10 @@ Rapor sayfasında yönetici seçtiği tarihler arasında ki izinlerin tümünü 
 ![resim8](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(11).png)
 
 
+![resim9](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(12).png)
+
+
+
 
 
 ## GELİŞTİRİCİ
