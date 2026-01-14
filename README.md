@@ -112,6 +112,10 @@ Bu bölümde genel rapor butonu form 4 sayfasına bağlanır ve tüm izinler gö
 Rapor sayfasında yönetici seçtiği tarihler arasında ki izinlerin tümünü veya kategorisine göre görüntüler.
 
 ![resim8](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(7).png)
+## Kullanıcı Sayfası
+![resim8](https://github.com/meryemgamzeibis122-a11y/nyp-personel-takip/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(11).png)
+
+
 
 
 ## GELİŞTİRİCİ
